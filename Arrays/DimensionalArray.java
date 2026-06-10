@@ -18,7 +18,7 @@ public class DimensionalArray {
         }
 
         // elements accessing using for each loop for 2d array
-        System.err.println("by for each loop :");
+        System.out.println("by for each loop :");
         for (int[] a : arr2d) {
             for (int b : a) {
                 System.out.print(b + " ");
